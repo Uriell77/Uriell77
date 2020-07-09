@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Im System Engineer, in python study and in quest to project that change my life
 <!--
 **Uriell77/Uriell77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
